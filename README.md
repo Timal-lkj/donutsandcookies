@@ -16,7 +16,7 @@ Site vitrine responsive pour une boutique de donuts et cookies, développé avec
 
 ## Installation
 
-```bash
+
 # Cloner le dépôt
 git clone https://github.com/Timal-lkj/donutsandcookies.git
 cd donutsandcookies
