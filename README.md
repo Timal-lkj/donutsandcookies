@@ -1,4 +1,3 @@
-````markdown
 # Donuts & Cookies
 
 Site vitrine responsive pour une boutique de donuts et cookies, développé avec **Next.js** et **Tailwind CSS**.
@@ -27,7 +26,7 @@ npm install
 
 # Lancer le serveur de développement
 npm run dev
-````
+
 
 Accès à l’application : [http://localhost:3000](http://localhost:3000)
 
