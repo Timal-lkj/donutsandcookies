@@ -1,6 +1,3 @@
-## README avec Badges
-
-````markdown
 # Donuts & Cookies – Site Vitrine
 
 [![Next.js](https://img.shields.io/badge/Next.js-15-blue?logo=next.js&logoColor=white)](https://nextjs.org/)
